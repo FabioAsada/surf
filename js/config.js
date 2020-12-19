@@ -6,7 +6,9 @@ $(document).ready(function(){
 
     $('.scrollspy').scrollSpy();
 
-    $('.materialboxed').materialbox()
+    $('.materialboxed').materialbox();
+
+    $('.collapsible').collapsible();
  
 
 });
