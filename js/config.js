@@ -4,7 +4,10 @@ $(document).ready(function(){
   
     $('.slider').slider();
 
-    $('.scrollspy').scrollSpy();
+    $('.scrollspy').scrollSpy({
+
+        scrollOffset: 0
+    });
 
     $('.materialboxed').materialbox();
 
