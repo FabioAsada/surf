@@ -2,8 +2,15 @@
 
 ## Site One Page Feito com Materialize
 
-- __*Projeto criado com a orientação do professor Fábio Souza*__
-- __*Utilizando HTML, CSS, jQuery, Materialize e WowJs*__
+- Projeto criado para os amantes de Surf.
+- A intenção do site é agrupar todos os serviços em um só lugar. Desde passagens aéreas até passeios.
+- Atendendo tanto a Versão Web, como a Versão Mobile.
+- Desenvolvido utilizando as tecnologias:
+  - HTML
+  - CSS
+  - jQuery
+  - Materialize
+  - WowJs
 
 ### Desktop e Tablets
 
